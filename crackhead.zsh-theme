@@ -58,5 +58,5 @@ set_terminal_background() {
   printf '\033]11;#000000\007'
 }
 
-set_terminal_background
+#set_terminal_background
 
